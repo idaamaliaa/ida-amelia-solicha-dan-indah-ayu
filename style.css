@@ -8,7 +8,7 @@ body {
     height: 100vh;
 }
 .login-form {
-    background-color: rgb(4, 29, 252);
+    background-color: rgb(255, 179, 221);
     width: 300px;
     padding: 30px;
     border-radius: 10px;
@@ -38,3 +38,4 @@ button{
     border: none;
     border-radius: 5px;
 }
+
