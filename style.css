@@ -1,0 +1,41 @@
+body {
+    margin:0;
+    font-family: Arial, sans-serif;
+    background-color: aquamarine;
+    display: flex;
+    justify-content: : center;
+    align-items: center;
+    height: 100vh;
+}
+.login-form {
+    background-color: rgb(194, 169, 137);
+    width: 300px;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px gray;
+}
+h2 {
+    twxt-algin: center;
+{  
+label {
+    display: block;
+    ,margin-top: 15px;
+
+}
+input {
+    width: 100%;
+    padding: 10px;
+    margin-top: 5px;
+    box-sizing: border-box;
+}
+
+button{
+    width: 100%;
+    padding: 10px;
+    margin-top: 20px;
+    background-color: blue;
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
+
