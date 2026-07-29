@@ -3,7 +3,7 @@ body {
     font-family: Arial, sans-serif;
     background-color: aquamarine;
     display: flex;
-    justify-content: : center;
+    justify-content:  center;
     align-items: center;
     height: 100vh;
 }
@@ -16,10 +16,10 @@ body {
 }
 h2 {
     twxt-algin: center;
-{  
+}  
 label {
     display: block;
-    ,margin-top: 15px;
+    margin-top: 15px;
 
 }
 input {
